@@ -1,0 +1,91 @@
+#car_div {
+  background-color:bisque;
+  width: 450px;
+}
+
+#animal_div {
+  margin-top: 10px;
+  background-color:rgb(186, 216, 243);
+  position: relative;
+  width: 250px;
+  height: 150px;
+}
+
+.animal_p {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  background-color:rgb(42, 143, 231);
+  width: 100px;
+  border-color: blue;
+  border-style: solid;
+  border-radius: 0.2cm;
+  text-align: center;
+}
+
+.animal_img {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  height: 100px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: blue; 
+  box-sizing: border-box;
+}
+
+#x {
+  width: 50px;
+}
+#y {
+  width: 50px;
+}
+#x1 {
+  width: 50px;
+}
+#y1 {
+  width: 50px;
+}
+#x2 {
+  width: 50px;
+}
+#y2 {
+  width: 50px;
+}
+#color {
+  position: relative;
+  left: 100px;
+  top: -35px;
+}
+#blue {
+  background-color: blue;
+  display: inline-block;
+  width: 100px;
+}
+#red {
+  background-color: red;
+  display: inline-block;
+  width: 100px;
+}
+#green {
+  background-color: green;
+  display: inline-block;
+  width: 100px;
+}
+#animal {
+  position: relative;
+  left: 100px;
+  top: -35px;
+}
+
+#blue-text {
+  color: blue;
+}
+
+#red-text {
+  color: red;
+}
+
+#green-text {
+  color: green;
+}
